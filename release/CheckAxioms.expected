@@ -1,0 +1,22 @@
+'OmegaBound.omegaMM_lt_2371339' depends on axioms: [propext,
+ Classical.choice,
+ Lean.ofReduceBool,
+ Lean.trustCompiler,
+ Quot.sound]
+'OmegaBound.omegaMM_lt_2371339_allFields' depends on axioms: [propext,
+ Classical.choice,
+ Lean.ofReduceBool,
+ Lean.trustCompiler,
+ Quot.sound]
+'OmegaBound.ADVXXZFinal.omegaMM_lt_target114' depends on axioms: [propext,
+ Classical.choice,
+ Lean.ofReduceBool,
+ Lean.trustCompiler,
+ Quot.sound]
+'OmegaBound.ADVXXZGeneral.omegaMM_lt_target_allFields' depends on axioms: [propext,
+ Classical.choice,
+ Lean.ofReduceBool,
+ Lean.trustCompiler,
+ Quot.sound]
+OmegaBound.omegaMM_lt_2371339 : OmegaBound.omegaMM ℚ < 2371339 / 10 ^ 6
+OmegaBound.omegaMM_lt_2371339_allFields : ∀ (F : Type) [inst : Field F], OmegaBound.omegaMM F < 2371339 / 10 ^ 6

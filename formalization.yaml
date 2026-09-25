@@ -1,0 +1,65 @@
+# formalization.yaml (v0.4): repo-root metadata for formalization projects.
+version: "v0.4"
+
+project:
+  name: "matrix-mult-exponent"
+  description: "A Lean 4 proof that the exponent of matrix multiplication satisfies ω < 2.371339, over every field."
+  authors: ["Jeroen Zuiddam"]
+  license: "Apache-2.0"
+
+sources:
+  - title: "More Asymmetry Yields Faster Matrix Multiplication"
+    authors: ["Josh Alman", "Ran Duan", "Virginia Vassilevska Williams", "Yinzhan Xu", "Zixuan Xu", "Renfei Zhou"]
+    id: "arXiv:2404.16349"   # line references in docstrings refer to arXiv v2
+    type: "article"
+    relationship: "formalizes"
+    note: "The paper's fourth-power bound ω < 2.371339; the released certificate W1.00_2.371339.mat enters the tree as exact integer tables (see release/DETAILS.md)."
+  - title: "New Bounds for Matrix Multiplication: from Alpha to Omega"
+    authors: ["Virginia Vassilevska Williams", "Yinzhan Xu", "Zixuan Xu", "Renfei Zhou"]
+    id: "arXiv:2307.07970"
+    type: "article"
+    relationship: "background"   # the hole-repair argument
+
+status:
+  scope: >
+    The main theorem of the paper, in the general form (any admissible
+    certificate over any field) and for the released certificate. The general
+    theorems use only the three standard axioms; the released instance also
+    uses native_decide (191 finite checks over the certificate's
+    integer tables).
+  sorry_count: 0
+  sorry_in_definitions: 0
+  axioms: ["propext", "Classical.choice", "Quot.sound", "Lean.ofReduceBool", "Lean.trustCompiler"]
+  main_results:
+    - declaration: "OmegaBound.omegaMM_lt_2371339_allFields"
+      file: "OmegaBound/FinalBound.lean"
+      sorry_count: 0
+    - declaration: "OmegaBound.omegaMM_lt_2371339"
+      file: "OmegaBound/FinalBound.lean"
+      sorry_count: 0
+
+automation:
+  methods:
+    - method: "agent"
+      models: ["claude-opus-5", "claude-fable-5-1", "gpt-6-astra", "gpt-5.6-sol"]
+      framework: "Claude Code"
+      tool_setup: "Claude Code (planning, implementation, verification), dispatching OpenAI Codex (codex exec) for specified proof implementations and independent audits; human direction and review throughout."
+      cost:
+        wall_time: "~6 weeks (13 August to 25 September 2026)"
+  notes: >
+    Theorem statements were frozen (PLATFORM/Statements/) before they were
+    proved; every layer was audited by an independent agent run before it was
+    used.
+
+fidelity:
+  divergences: >
+    None: the theorems are stated as in the paper, with no added hypotheses.
+
+review:
+  status: "agent-reviewed, author-reviewed"
+  notes: >
+    The author reviewed the definitions that enter the main statement
+    (omegaMM, IsMMExponent, RankLE, Restricts, matMul, identity, Tensor3).
+    Independent agent audits of statement faithfulness against the paper, of
+    the axiom usage of all main results and of the release tree; the Lean
+    kernel checks both theorems against the frozen statements.

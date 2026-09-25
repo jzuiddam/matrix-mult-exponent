@@ -1,0 +1,20 @@
+import OmegaBound.ADVXXZGeneralReleasedOrdinaryOccurrenceCensusConstituentNormalization
+import OmegaBound.ADVXXZGeneralReleasedOrdinaryOccurrenceCensusCounts
+import OmegaBound.ADVXXZGeneralReleasedOrdinaryOccurrenceCensusFirstHalfCount
+import OmegaBound.ADVXXZGeneralReleasedOrdinaryOccurrenceCensusSecondHalfCount
+import OmegaBound.ADVXXZGeneralReleasedInventoryAux
+
+open OmegaBound Tensor3
+open OmegaBound.ADVXXZ OmegaBound.ADVXXZPaper
+open scoped BigOperators
+namespace OmegaBound.ADVXXZGeneral
+
+private theorem releasedConstituentTermCount_eq : releasedConstituentTermCount = 5508 := by
+  unfold releasedConstituentTermCount
+  rw [releasedConstituent_first_half_count, releasedConstituent_second_half_count]
+
+theorem releasedConstituentTerm_card :
+    Fintype.card (ConstituentTerm releasedParent) = 5508 :=
+  releasedConstituentTerm_card_eq_count.trans releasedConstituentTermCount_eq
+
+end OmegaBound.ADVXXZGeneral

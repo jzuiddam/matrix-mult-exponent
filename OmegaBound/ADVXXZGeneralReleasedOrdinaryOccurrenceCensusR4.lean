@@ -1,0 +1,17 @@
+import OmegaBound.ADVXXZGeneralReleasedOrdinaryOccurrenceCensusR4S0
+import OmegaBound.ADVXXZGeneralReleasedOrdinaryOccurrenceCensusR4S1
+import OmegaBound.ADVXXZGeneralReleasedOrdinaryOccurrenceCensusR4S2
+import OmegaBound.ADVXXZGeneralReleasedOrdinaryOccurrenceCensusR4S3
+import OmegaBound.ADVXXZGeneralReleasedOrdinaryOccurrenceCensusR4S4
+import OmegaBound.ADVXXZGeneralReleasedOrdinaryOccurrenceCensusR4S5
+
+namespace OmegaBound.ADVXXZGeneral
+
+set_option maxHeartbeats 1000000 in
+theorem released_ordinary_census_block_r4 : ReleasedOrdinaryCensusBlock 4 := by
+  exact releasedOrdinaryCensusBlock_of_slices 4 29 34 26 29 34 32
+    released_ordinary_census_block_r4_s0 released_ordinary_census_block_r4_s1
+    released_ordinary_census_block_r4_s2 released_ordinary_census_block_r4_s3
+    released_ordinary_census_block_r4_s4 released_ordinary_census_block_r4_s5 (by norm_num)
+
+end OmegaBound.ADVXXZGeneral

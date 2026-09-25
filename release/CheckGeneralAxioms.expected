@@ -1,0 +1,19 @@
+'OmegaBound.ADVXXZGeneral.constituent_positive_exact_regional33' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'OmegaBound.ADVXXZGeneral.constituent_positive_positive_regional33' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'OmegaBound.ADVXXZGeneral.constituent_pooled_positive33' depends on axioms: [propext, Classical.choice, Quot.sound]
+'OmegaBound.ADVXXZGeneral.global_exact_uniform' depends on axioms: [propext, Classical.choice, Quot.sound]
+'OmegaBound.ADVXXZGeneral.global_nearby_uniform' depends on axioms: [propext, Classical.choice, Quot.sound]
+'OmegaBound.ADVXXZGeneral.global_positive_integral_for_iterate' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'OmegaBound.ADVXXZGeneral.iterate_stages' depends on axioms: [propext, Classical.choice, Quot.sound]
+'OmegaBound.ADVXXZGeneral.certificate_bound' depends on axioms: [propext, Classical.choice, Quot.sound]
+'OmegaBound.ADVXXZGeneral.omegaRect_le_of_certificates_tendsto' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'OmegaBound.ADVXXZGeneral.released_level2_retained_leg' depends on axioms: [propext, Classical.choice, Quot.sound]
+'OmegaBound.ADVXXZGeneral.released_global_retained_leg' depends on axioms: [propext, Classical.choice, Quot.sound]

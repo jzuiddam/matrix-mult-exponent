@@ -1,0 +1,1025 @@
+{
+  "format": "omega-native-debt/1",
+  "entries": [
+    {
+      "module": "OmegaBound.ADVXXZCertificateConstituentClosure",
+      "declaration": "OmegaBound.ADVXXZCertificateConstituentClosure.certificateDen_pos._proof_1_1",
+      "reason": "native root in a kept module, outside the proof closure"
+    },
+    {
+      "module": "OmegaBound.ADVXXZG1Mirror",
+      "declaration": "OmegaBound.ADVXXZG1.g1_mirror._proof_1_1",
+      "reason": "native root in the proof closure: G1 mirror, support and row shapes"
+    },
+    {
+      "module": "OmegaBound.ADVXXZG1Parent",
+      "declaration": "OmegaBound.ADVXXZG1.Atot_pos._proof_1_1",
+      "reason": "native root in a kept module, outside the proof closure"
+    },
+    {
+      "module": "OmegaBound.ADVXXZG1Parent",
+      "declaration": "OmegaBound.ADVXXZG1.physRow_zero._proof_1_1",
+      "reason": "native root in a kept module, outside the proof closure"
+    },
+    {
+      "module": "OmegaBound.ADVXXZG1Parent",
+      "declaration": "OmegaBound.ADVXXZG1.roleAt_physicalSide._proof_1_1",
+      "reason": "native root in a kept module, outside the proof closure"
+    },
+    {
+      "module": "OmegaBound.ADVXXZG1Parent",
+      "declaration": "OmegaBound.ADVXXZG1.rowShape_shapeIndex._proof_1_1",
+      "reason": "native root in the proof closure: G1 mirror, support and row shapes"
+    },
+    {
+      "module": "OmegaBound.ADVXXZG1Supp",
+      "declaration": "OmegaBound.ADVXXZG1.g1_support._proof_1_1",
+      "reason": "native root in the proof closure: G1 mirror, support and row shapes"
+    },
+    {
+      "module": "OmegaBound.ADVXXZT1Inc",
+      "declaration": "OmegaBound.ADVXXZT1.inc_laws._proof_1_1",
+      "reason": "native root in the proof closure: T1 bijections and incidence laws"
+    },
+    {
+      "module": "OmegaBound.ADVXXZT1IncRange",
+      "declaration": "OmegaBound.ADVXXZT1.inc_range_laws._proof_1_1",
+      "reason": "native root in the proof closure: T1 bijections and incidence laws"
+    },
+    {
+      "module": "OmegaBound.ADVXXZT1Phys",
+      "declaration": "OmegaBound.ADVXXZT1.physRow_bijective._proof_1_1",
+      "reason": "native root in the proof closure: T1 bijections and incidence laws"
+    },
+    {
+      "module": "OmegaBound.ADVXXZT1Phys",
+      "declaration": "OmegaBound.ADVXXZT1.physRow_bijective._proof_1_2",
+      "reason": "native root in the proof closure: T1 bijections and incidence laws"
+    },
+    {
+      "module": "OmegaBound.ADVXXZT1Phys",
+      "declaration": "OmegaBound.ADVXXZT1.shapeIndex_bijective._proof_1_1",
+      "reason": "native root in the proof closure: T1 bijections and incidence laws"
+    },
+    {
+      "module": "OmegaBound.ADVXXZT1Phys",
+      "declaration": "OmegaBound.ADVXXZT1.shapeIndex_bijective._proof_1_2",
+      "reason": "native root in the proof closure: T1 bijections and incidence laws"
+    },
+    {
+      "module": "OmegaBound.ADVXXZT2Marg",
+      "declaration": "OmegaBound.ADVXXZT2.marg_ok._proof_1_1",
+      "reason": "native root in a kept module, outside the proof closure"
+    },
+    {
+      "module": "OmegaBound.ADVXXZT2Marg",
+      "declaration": "OmegaBound.ADVXXZT2.mixture_needs_transport._proof_1_1",
+      "reason": "native root in a kept module, outside the proof closure"
+    },
+    {
+      "module": "OmegaBound.ADVXXZT2Marg",
+      "declaration": "OmegaBound.ADVXXZT2.naive_true_on_region_zero._proof_1_1",
+      "reason": "native root in a kept module, outside the proof closure"
+    },
+    {
+      "module": "OmegaBound.ADVXXZT2Mult",
+      "declaration": "OmegaBound.ADVXXZT2.mult_ok._proof_1_1",
+      "reason": "native root in the proof closure: other inventory checks (T2, T6 denominators/selection/inventory, T9R16)"
+    },
+    {
+      "module": "OmegaBound.ADVXXZT6DenominatorBase",
+      "declaration": "OmegaBound.ADVXXZT6DenominatorData.checkedDenominator._proof_1",
+      "reason": "native root in a kept module, outside the proof closure"
+    },
+    {
+      "module": "OmegaBound.ADVXXZT6DenominatorBase",
+      "declaration": "OmegaBound.ADVXXZT6DenominatorData.wordEquiv4._proof_1",
+      "reason": "native root in the proof closure: other inventory checks (T2, T6 denominators/selection/inventory, T9R16)"
+    },
+    {
+      "module": "OmegaBound.ADVXXZT6DenominatorBase",
+      "declaration": "OmegaBound.ADVXXZT6DenominatorData.wordEquiv4._proof_2",
+      "reason": "native root in the proof closure: other inventory checks (T2, T6 denominators/selection/inventory, T9R16)"
+    },
+    {
+      "module": "OmegaBound.ADVXXZT6Inventory",
+      "declaration": "OmegaBound.ADVXXZT6.frac_law._proof_1_1",
+      "reason": "native root in the proof closure: other inventory checks (T2, T6 denominators/selection/inventory, T9R16)"
+    },
+    {
+      "module": "OmegaBound.ADVXXZT6Round82ChildKernel0",
+      "declaration": "OmegaBound.ADVXXZT6Round82.childShard0._proof_1_1",
+      "reason": "native root in the proof closure: Round-82 C5 kernels (`c5ShardK*`) and child kernels"
+    },
+    {
+      "module": "OmegaBound.ADVXXZT6Round82ChildKernel1",
+      "declaration": "OmegaBound.ADVXXZT6Round82.childShard1._proof_1_1",
+      "reason": "native root in the proof closure: Round-82 C5 kernels (`c5ShardK*`) and child kernels"
+    },
+    {
+      "module": "OmegaBound.ADVXXZT6Round82ChildKernel2",
+      "declaration": "OmegaBound.ADVXXZT6Round82.childShard2._proof_1_1",
+      "reason": "native root in the proof closure: Round-82 C5 kernels (`c5ShardK*`) and child kernels"
+    },
+    {
+      "module": "OmegaBound.ADVXXZT6Round82ChildKernel3",
+      "declaration": "OmegaBound.ADVXXZT6Round82.childShard3._proof_1_1",
+      "reason": "native root in the proof closure: Round-82 C5 kernels (`c5ShardK*`) and child kernels"
+    },
+    {
+      "module": "OmegaBound.ADVXXZT6Round82ChildKernel4",
+      "declaration": "OmegaBound.ADVXXZT6Round82.childShard4._proof_1_1",
+      "reason": "native root in the proof closure: Round-82 C5 kernels (`c5ShardK*`) and child kernels"
+    },
+    {
+      "module": "OmegaBound.ADVXXZT6Round82ChildKernel5",
+      "declaration": "OmegaBound.ADVXXZT6Round82.childShard5._proof_1_1",
+      "reason": "native root in the proof closure: Round-82 C5 kernels (`c5ShardK*`) and child kernels"
+    },
+    {
+      "module": "OmegaBound.ADVXXZT6Selection",
+      "declaration": "OmegaBound.ADVXXZT6Selection.kid_pat_ok._proof_1_1",
+      "reason": "native root in the proof closure: other inventory checks (T2, T6 denominators/selection/inventory, T9R16)"
+    },
+    {
+      "module": "OmegaBound.ADVXXZT6SplitTargetBase",
+      "declaration": "OmegaBound.ADVXXZT6SplitTargetData.wordEquiv._proof_1",
+      "reason": "native root in the proof closure: T6 split target (node rows, word equivalences, fine index)"
+    },
+    {
+      "module": "OmegaBound.ADVXXZT6SplitTargetBase",
+      "declaration": "OmegaBound.ADVXXZT6SplitTargetData.wordEquiv._proof_2",
+      "reason": "native root in the proof closure: T6 split target (node rows, word equivalences, fine index)"
+    },
+    {
+      "module": "OmegaBound.ADVXXZT6SplitTargetIndex",
+      "declaration": "OmegaBound.ADVXXZT6SplitTargetData.fine_index_ok._proof_1_1",
+      "reason": "native root in the proof closure: T6 split target (node rows, word equivalences, fine index)"
+    },
+    {
+      "module": "OmegaBound.ADVXXZT6SplitTargetNode0",
+      "declaration": "OmegaBound.ADVXXZT6SplitTargetData.targetNodeRows0_ok._proof_1_1",
+      "reason": "native root in the proof closure: T6 split target (node rows, word equivalences, fine index)"
+    },
+    {
+      "module": "OmegaBound.ADVXXZT6SplitTargetNode1",
+      "declaration": "OmegaBound.ADVXXZT6SplitTargetData.targetNodeRows1_ok._proof_1_1",
+      "reason": "native root in the proof closure: T6 split target (node rows, word equivalences, fine index)"
+    },
+    {
+      "module": "OmegaBound.ADVXXZT6SplitTargetNode2",
+      "declaration": "OmegaBound.ADVXXZT6SplitTargetData.targetNodeRows2_ok._proof_1_1",
+      "reason": "native root in the proof closure: T6 split target (node rows, word equivalences, fine index)"
+    },
+    {
+      "module": "OmegaBound.ADVXXZT6SplitTargetNode3",
+      "declaration": "OmegaBound.ADVXXZT6SplitTargetData.targetNodeRows3_ok._proof_1_1",
+      "reason": "native root in the proof closure: T6 split target (node rows, word equivalences, fine index)"
+    },
+    {
+      "module": "OmegaBound.ADVXXZT6SplitTargetNode4",
+      "declaration": "OmegaBound.ADVXXZT6SplitTargetData.targetNodeRows4_ok._proof_1_1",
+      "reason": "native root in the proof closure: T6 split target (node rows, word equivalences, fine index)"
+    },
+    {
+      "module": "OmegaBound.ADVXXZT6SplitTargetNode5",
+      "declaration": "OmegaBound.ADVXXZT6SplitTargetData.targetNodeRows5_ok._proof_1_1",
+      "reason": "native root in the proof closure: T6 split target (node rows, word equivalences, fine index)"
+    },
+    {
+      "module": "OmegaBound.ADVXXZT7EnrichedBase",
+      "declaration": "OmegaBound.ADVXXZT7Enriched.checkedSplit._proof_1",
+      "reason": "native root in a kept module, outside the proof closure"
+    },
+    {
+      "module": "OmegaBound.ADVXXZT7EnrichedBase",
+      "declaration": "OmegaBound.ADVXXZT7Enriched.rawSplit._proof_1",
+      "reason": "native root in a kept module, outside the proof closure"
+    },
+    {
+      "module": "OmegaBound.ADVXXZT7EnrichedBase",
+      "declaration": "OmegaBound.ADVXXZT7Enriched.rawSplit._proof_2",
+      "reason": "native root in a kept module, outside the proof closure"
+    },
+    {
+      "module": "OmegaBound.ADVXXZT7EnrichedBase",
+      "declaration": "OmegaBound.ADVXXZT7Enriched.rawSplit._proof_3",
+      "reason": "native root in a kept module, outside the proof closure"
+    },
+    {
+      "module": "OmegaBound.ADVXXZT7EnrichedBase",
+      "declaration": "OmegaBound.ADVXXZT7Enriched.rawSplit._proof_4",
+      "reason": "transitive native dependant (not itself a direct `Lean.ofReduceBool` root) in a kept module, outside the proof closure, kept by design"
+    },
+    {
+      "module": "OmegaBound.ADVXXZT7EnrichedShard00",
+      "declaration": "OmegaBound.ADVXXZT7Enriched.enrichedRows00_ok._proof_1_1",
+      "reason": "native root in the proof closure: T7 enriched split and special inventory"
+    },
+    {
+      "module": "OmegaBound.ADVXXZT7EnrichedShard01",
+      "declaration": "OmegaBound.ADVXXZT7Enriched.enrichedRows01_ok._proof_1_1",
+      "reason": "native root in the proof closure: T7 enriched split and special inventory"
+    },
+    {
+      "module": "OmegaBound.ADVXXZT7EnrichedShard02",
+      "declaration": "OmegaBound.ADVXXZT7Enriched.enrichedRows02_ok._proof_1_1",
+      "reason": "native root in the proof closure: T7 enriched split and special inventory"
+    },
+    {
+      "module": "OmegaBound.ADVXXZT7EnrichedShard03",
+      "declaration": "OmegaBound.ADVXXZT7Enriched.enrichedRows03_ok._proof_1_1",
+      "reason": "native root in the proof closure: T7 enriched split and special inventory"
+    },
+    {
+      "module": "OmegaBound.ADVXXZT7EnrichedShard04",
+      "declaration": "OmegaBound.ADVXXZT7Enriched.enrichedRows04_ok._proof_1_1",
+      "reason": "native root in the proof closure: T7 enriched split and special inventory"
+    },
+    {
+      "module": "OmegaBound.ADVXXZT7EnrichedShard05",
+      "declaration": "OmegaBound.ADVXXZT7Enriched.enrichedRows05_ok._proof_1_1",
+      "reason": "native root in the proof closure: T7 enriched split and special inventory"
+    },
+    {
+      "module": "OmegaBound.ADVXXZT7EnrichedShard06",
+      "declaration": "OmegaBound.ADVXXZT7Enriched.enrichedRows06_ok._proof_1_1",
+      "reason": "native root in the proof closure: T7 enriched split and special inventory"
+    },
+    {
+      "module": "OmegaBound.ADVXXZT7EnrichedShard07",
+      "declaration": "OmegaBound.ADVXXZT7Enriched.enrichedRows07_ok._proof_1_1",
+      "reason": "native root in the proof closure: T7 enriched split and special inventory"
+    },
+    {
+      "module": "OmegaBound.ADVXXZT7EnrichedShard08",
+      "declaration": "OmegaBound.ADVXXZT7Enriched.enrichedRows08_ok._proof_1_1",
+      "reason": "native root in the proof closure: T7 enriched split and special inventory"
+    },
+    {
+      "module": "OmegaBound.ADVXXZT7EnrichedShard09",
+      "declaration": "OmegaBound.ADVXXZT7Enriched.enrichedRows09_ok._proof_1_1",
+      "reason": "native root in the proof closure: T7 enriched split and special inventory"
+    },
+    {
+      "module": "OmegaBound.ADVXXZT7EnrichedShard10",
+      "declaration": "OmegaBound.ADVXXZT7Enriched.enrichedRows10_ok._proof_1_1",
+      "reason": "native root in the proof closure: T7 enriched split and special inventory"
+    },
+    {
+      "module": "OmegaBound.ADVXXZT7EnrichedShard11",
+      "declaration": "OmegaBound.ADVXXZT7Enriched.enrichedRows11_ok._proof_1_1",
+      "reason": "native root in the proof closure: T7 enriched split and special inventory"
+    },
+    {
+      "module": "OmegaBound.ADVXXZT7EnrichedShard12",
+      "declaration": "OmegaBound.ADVXXZT7Enriched.enrichedRows12_ok._proof_1_1",
+      "reason": "native root in the proof closure: T7 enriched split and special inventory"
+    },
+    {
+      "module": "OmegaBound.ADVXXZT7EnrichedShard13",
+      "declaration": "OmegaBound.ADVXXZT7Enriched.enrichedRows13_ok._proof_1_1",
+      "reason": "native root in the proof closure: T7 enriched split and special inventory"
+    },
+    {
+      "module": "OmegaBound.ADVXXZT7EnrichedShard14",
+      "declaration": "OmegaBound.ADVXXZT7Enriched.enrichedRows14_ok._proof_1_1",
+      "reason": "native root in the proof closure: T7 enriched split and special inventory"
+    },
+    {
+      "module": "OmegaBound.ADVXXZT7EnrichedShard15",
+      "declaration": "OmegaBound.ADVXXZT7Enriched.enrichedRows15_ok._proof_1_1",
+      "reason": "native root in the proof closure: T7 enriched split and special inventory"
+    },
+    {
+      "module": "OmegaBound.ADVXXZT7EnrichedShard16",
+      "declaration": "OmegaBound.ADVXXZT7Enriched.enrichedRows16_ok._proof_1_1",
+      "reason": "native root in the proof closure: T7 enriched split and special inventory"
+    },
+    {
+      "module": "OmegaBound.ADVXXZT7EnrichedShard17",
+      "declaration": "OmegaBound.ADVXXZT7Enriched.enrichedRows17_ok._proof_1_1",
+      "reason": "native root in the proof closure: T7 enriched split and special inventory"
+    },
+    {
+      "module": "OmegaBound.ADVXXZT7Round20ExactSplit",
+      "declaration": "OmegaBound.ADVXXZT7Round20ExactSplit.childRow_node._proof_1_1",
+      "reason": "native root in the proof closure: T7 enriched split and special inventory"
+    },
+    {
+      "module": "OmegaBound.ADVXXZT7SpecialInventory",
+      "declaration": "OmegaBound.ADVXXZT7SpecialInventory.natural_table_law._proof_1_1",
+      "reason": "native root in the proof closure: T7 enriched split and special inventory"
+    },
+    {
+      "module": "OmegaBound.ADVXXZT9R16PositiveParents",
+      "declaration": "OmegaBound.ADVXXZT9R16PositiveParents.releasedParentArithmetic._proof_1_1",
+      "reason": "native root in the proof closure: other inventory checks (T2, T6 denominators/selection/inventory, T9R16)"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactR61CohortR0P000P031Check",
+      "declaration": "OmegaBound.ADVXXZT6Round61.releaseCompactR61CohortR0P000P031Check._proof_1_1",
+      "reason": "native root in the proof closure: Round-61 count cohorts"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactR61CohortR0P032P063Check",
+      "declaration": "OmegaBound.ADVXXZT6Round61.releaseCompactR61CohortR0P032P063Check._proof_1_1",
+      "reason": "native root in the proof closure: Round-61 count cohorts"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactR61CohortR0P064P095Check",
+      "declaration": "OmegaBound.ADVXXZT6Round61.releaseCompactR61CohortR0P064P095Check._proof_1_1",
+      "reason": "native root in the proof closure: Round-61 count cohorts"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactR61CohortR0P096P125Check",
+      "declaration": "OmegaBound.ADVXXZT6Round61.releaseCompactR61CohortR0P096P125Check._proof_1_1",
+      "reason": "native root in the proof closure: Round-61 count cohorts"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactR61CohortR1P000P031Check",
+      "declaration": "OmegaBound.ADVXXZT6Round61.releaseCompactR61CohortR1P000P031Check._proof_1_1",
+      "reason": "native root in the proof closure: Round-61 count cohorts"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactR61CohortR1P032P063Check",
+      "declaration": "OmegaBound.ADVXXZT6Round61.releaseCompactR61CohortR1P032P063Check._proof_1_1",
+      "reason": "native root in the proof closure: Round-61 count cohorts"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactR61CohortR1P064P095Check",
+      "declaration": "OmegaBound.ADVXXZT6Round61.releaseCompactR61CohortR1P064P095Check._proof_1_1",
+      "reason": "native root in the proof closure: Round-61 count cohorts"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactR61CohortR1P096P125Check",
+      "declaration": "OmegaBound.ADVXXZT6Round61.releaseCompactR61CohortR1P096P125Check._proof_1_1",
+      "reason": "native root in the proof closure: Round-61 count cohorts"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactR61CohortR2P000P031Check",
+      "declaration": "OmegaBound.ADVXXZT6Round61.releaseCompactR61CohortR2P000P031Check._proof_1_1",
+      "reason": "native root in the proof closure: Round-61 count cohorts"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactR61CohortR2P032P063Check",
+      "declaration": "OmegaBound.ADVXXZT6Round61.releaseCompactR61CohortR2P032P063Check._proof_1_1",
+      "reason": "native root in the proof closure: Round-61 count cohorts"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactR61CohortR2P064P095Check",
+      "declaration": "OmegaBound.ADVXXZT6Round61.releaseCompactR61CohortR2P064P095Check._proof_1_1",
+      "reason": "native root in the proof closure: Round-61 count cohorts"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactR61CohortR2P096P125Check",
+      "declaration": "OmegaBound.ADVXXZT6Round61.releaseCompactR61CohortR2P096P125Check._proof_1_1",
+      "reason": "native root in the proof closure: Round-61 count cohorts"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactR61CohortR3P000P031Check",
+      "declaration": "OmegaBound.ADVXXZT6Round61.releaseCompactR61CohortR3P000P031Check._proof_1_1",
+      "reason": "native root in the proof closure: Round-61 count cohorts"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactR61CohortR3P032P063Check",
+      "declaration": "OmegaBound.ADVXXZT6Round61.releaseCompactR61CohortR3P032P063Check._proof_1_1",
+      "reason": "native root in the proof closure: Round-61 count cohorts"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactR61CohortR3P064P095Check",
+      "declaration": "OmegaBound.ADVXXZT6Round61.releaseCompactR61CohortR3P064P095Check._proof_1_1",
+      "reason": "native root in the proof closure: Round-61 count cohorts"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactR61CohortR3P096P125Check",
+      "declaration": "OmegaBound.ADVXXZT6Round61.releaseCompactR61CohortR3P096P125Check._proof_1_1",
+      "reason": "native root in the proof closure: Round-61 count cohorts"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactR61CohortR4P000P031Check",
+      "declaration": "OmegaBound.ADVXXZT6Round61.releaseCompactR61CohortR4P000P031Check._proof_1_1",
+      "reason": "native root in the proof closure: Round-61 count cohorts"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactR61CohortR4P032P063Check",
+      "declaration": "OmegaBound.ADVXXZT6Round61.releaseCompactR61CohortR4P032P063Check._proof_1_1",
+      "reason": "native root in the proof closure: Round-61 count cohorts"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactR61CohortR4P064P095Check",
+      "declaration": "OmegaBound.ADVXXZT6Round61.releaseCompactR61CohortR4P064P095Check._proof_1_1",
+      "reason": "native root in the proof closure: Round-61 count cohorts"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactR61CohortR4P096P125Check",
+      "declaration": "OmegaBound.ADVXXZT6Round61.releaseCompactR61CohortR4P096P125Check._proof_1_1",
+      "reason": "native root in the proof closure: Round-61 count cohorts"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactR61CohortR5P000P031Check",
+      "declaration": "OmegaBound.ADVXXZT6Round61.releaseCompactR61CohortR5P000P031Check._proof_1_1",
+      "reason": "native root in the proof closure: Round-61 count cohorts"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactR61CohortR5P032P063Check",
+      "declaration": "OmegaBound.ADVXXZT6Round61.releaseCompactR61CohortR5P032P063Check._proof_1_1",
+      "reason": "native root in the proof closure: Round-61 count cohorts"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactR61CohortR5P064P095Check",
+      "declaration": "OmegaBound.ADVXXZT6Round61.releaseCompactR61CohortR5P064P095Check._proof_1_1",
+      "reason": "native root in the proof closure: Round-61 count cohorts"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactR61CohortR5P096P125Check",
+      "declaration": "OmegaBound.ADVXXZT6Round61.releaseCompactR61CohortR5P096P125Check._proof_1_1",
+      "reason": "native root in the proof closure: Round-61 count cohorts"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR0Y0Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR0Y0_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ADVXXZT6Round82C5KernelK0",
+      "declaration": "OmegaBound.ADVXXZT6Round82.c5ShardK0._proof_1_1",
+      "reason": "native root in the proof closure: Round-82 C5 kernels (`c5ShardK*`) and child kernels"
+    },
+    {
+      "module": "OmegaBound.ADVXXZT6Round82C5KernelK1",
+      "declaration": "OmegaBound.ADVXXZT6Round82.c5ShardK1._proof_1_1",
+      "reason": "native root in the proof closure: Round-82 C5 kernels (`c5ShardK*`) and child kernels"
+    },
+    {
+      "module": "OmegaBound.ADVXXZT6Round82C5KernelK10",
+      "declaration": "OmegaBound.ADVXXZT6Round82.c5ShardK10._proof_1_1",
+      "reason": "native root in the proof closure: Round-82 C5 kernels (`c5ShardK*`) and child kernels"
+    },
+    {
+      "module": "OmegaBound.ADVXXZT6Round82C5KernelK11",
+      "declaration": "OmegaBound.ADVXXZT6Round82.c5ShardK11._proof_1_1",
+      "reason": "native root in the proof closure: Round-82 C5 kernels (`c5ShardK*`) and child kernels"
+    },
+    {
+      "module": "OmegaBound.ADVXXZT6Round82C5KernelK12",
+      "declaration": "OmegaBound.ADVXXZT6Round82.c5ShardK12._proof_1_1",
+      "reason": "native root in the proof closure: Round-82 C5 kernels (`c5ShardK*`) and child kernels"
+    },
+    {
+      "module": "OmegaBound.ADVXXZT6Round82C5KernelK13",
+      "declaration": "OmegaBound.ADVXXZT6Round82.c5ShardK13._proof_1_1",
+      "reason": "native root in the proof closure: Round-82 C5 kernels (`c5ShardK*`) and child kernels"
+    },
+    {
+      "module": "OmegaBound.ADVXXZT6Round82C5KernelK14",
+      "declaration": "OmegaBound.ADVXXZT6Round82.c5ShardK14._proof_1_1",
+      "reason": "native root in the proof closure: Round-82 C5 kernels (`c5ShardK*`) and child kernels"
+    },
+    {
+      "module": "OmegaBound.ADVXXZT6Round82C5KernelK15",
+      "declaration": "OmegaBound.ADVXXZT6Round82.c5ShardK15._proof_1_1",
+      "reason": "native root in the proof closure: Round-82 C5 kernels (`c5ShardK*`) and child kernels"
+    },
+    {
+      "module": "OmegaBound.ADVXXZT6Round82C5KernelK16",
+      "declaration": "OmegaBound.ADVXXZT6Round82.c5ShardK16._proof_1_1",
+      "reason": "native root in the proof closure: Round-82 C5 kernels (`c5ShardK*`) and child kernels"
+    },
+    {
+      "module": "OmegaBound.ADVXXZT6Round82C5KernelK17",
+      "declaration": "OmegaBound.ADVXXZT6Round82.c5ShardK17._proof_1_1",
+      "reason": "native root in the proof closure: Round-82 C5 kernels (`c5ShardK*`) and child kernels"
+    },
+    {
+      "module": "OmegaBound.ADVXXZT6Round82C5KernelK18",
+      "declaration": "OmegaBound.ADVXXZT6Round82.c5ShardK18._proof_1_1",
+      "reason": "native root in the proof closure: Round-82 C5 kernels (`c5ShardK*`) and child kernels"
+    },
+    {
+      "module": "OmegaBound.ADVXXZT6Round82C5KernelK19",
+      "declaration": "OmegaBound.ADVXXZT6Round82.c5ShardK19._proof_1_1",
+      "reason": "native root in the proof closure: Round-82 C5 kernels (`c5ShardK*`) and child kernels"
+    },
+    {
+      "module": "OmegaBound.ADVXXZT6Round82C5KernelK2",
+      "declaration": "OmegaBound.ADVXXZT6Round82.c5ShardK2._proof_1_1",
+      "reason": "native root in the proof closure: Round-82 C5 kernels (`c5ShardK*`) and child kernels"
+    },
+    {
+      "module": "OmegaBound.ADVXXZT6Round82C5KernelK20",
+      "declaration": "OmegaBound.ADVXXZT6Round82.c5ShardK20._proof_1_1",
+      "reason": "native root in the proof closure: Round-82 C5 kernels (`c5ShardK*`) and child kernels"
+    },
+    {
+      "module": "OmegaBound.ADVXXZT6Round82C5KernelK3",
+      "declaration": "OmegaBound.ADVXXZT6Round82.c5ShardK3._proof_1_1",
+      "reason": "native root in the proof closure: Round-82 C5 kernels (`c5ShardK*`) and child kernels"
+    },
+    {
+      "module": "OmegaBound.ADVXXZT6Round82C5KernelK4",
+      "declaration": "OmegaBound.ADVXXZT6Round82.c5ShardK4._proof_1_1",
+      "reason": "native root in the proof closure: Round-82 C5 kernels (`c5ShardK*`) and child kernels"
+    },
+    {
+      "module": "OmegaBound.ADVXXZT6Round82C5KernelK5",
+      "declaration": "OmegaBound.ADVXXZT6Round82.c5ShardK5._proof_1_1",
+      "reason": "native root in the proof closure: Round-82 C5 kernels (`c5ShardK*`) and child kernels"
+    },
+    {
+      "module": "OmegaBound.ADVXXZT6Round82C5KernelK6",
+      "declaration": "OmegaBound.ADVXXZT6Round82.c5ShardK6._proof_1_1",
+      "reason": "native root in the proof closure: Round-82 C5 kernels (`c5ShardK*`) and child kernels"
+    },
+    {
+      "module": "OmegaBound.ADVXXZT6Round82C5KernelK7",
+      "declaration": "OmegaBound.ADVXXZT6Round82.c5ShardK7._proof_1_1",
+      "reason": "native root in the proof closure: Round-82 C5 kernels (`c5ShardK*`) and child kernels"
+    },
+    {
+      "module": "OmegaBound.ADVXXZT6Round82C5KernelK8",
+      "declaration": "OmegaBound.ADVXXZT6Round82.c5ShardK8._proof_1_1",
+      "reason": "native root in the proof closure: Round-82 C5 kernels (`c5ShardK*`) and child kernels"
+    },
+    {
+      "module": "OmegaBound.ADVXXZT6Round82C5KernelK9",
+      "declaration": "OmegaBound.ADVXXZT6Round82.c5ShardK9._proof_1_1",
+      "reason": "native root in the proof closure: Round-82 C5 kernels (`c5ShardK*`) and child kernels"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR0Y1Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR0Y1_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR0Y2Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR0Y2_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR0Y3Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR0Y3_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR0Y4Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR0Y4_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR0Y5Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR0Y5_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR0Y6Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR0Y6_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR0Y7Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR0Y7_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR0Z0Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR0Z0_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR0Z1Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR0Z1_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR0Z2Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR0Z2_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR0Z3Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR0Z3_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR0Z4Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR0Z4_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR0Z5Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR0Z5_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR0Z6Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR0Z6_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR0Z7Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR0Z7_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR1Y0Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR1Y0_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR1Y1Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR1Y1_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR1Y2Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR1Y2_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR1Y3Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR1Y3_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR1Y4Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR1Y4_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR1Y5Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR1Y5_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR1Y6Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR1Y6_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR1Y7Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR1Y7_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR1Z0Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR1Z0_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR1Z1Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR1Z1_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR1Z2Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR1Z2_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR1Z3Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR1Z3_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR1Z4Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR1Z4_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR1Z5Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR1Z5_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR1Z6Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR1Z6_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR1Z7Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR1Z7_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR2Y0Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR2Y0_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR2Y1Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR2Y1_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR2Y2Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR2Y2_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR2Y3Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR2Y3_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR2Y4Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR2Y4_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR2Y5Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR2Y5_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR2Y6Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR2Y6_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR2Y7Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR2Y7_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR2Z0Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR2Z0_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR2Z1Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR2Z1_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR2Z2Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR2Z2_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR2Z3Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR2Z3_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR2Z4Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR2Z4_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR2Z5Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR2Z5_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR2Z6Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR2Z6_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR2Z7Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR2Z7_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR3Y0Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR3Y0_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR3Y1Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR3Y1_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR3Y2Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR3Y2_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR3Y3Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR3Y3_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR3Y4Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR3Y4_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR3Y5Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR3Y5_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR3Y6Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR3Y6_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR3Y7Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR3Y7_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR3Z0Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR3Z0_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR3Z1Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR3Z1_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR3Z2Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR3Z2_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR3Z3Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR3Z3_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR3Z4Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR3Z4_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR3Z5Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR3Z5_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR3Z6Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR3Z6_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR3Z7Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR3Z7_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR4Y0Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR4Y0_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR4Y1Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR4Y1_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR4Y2Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR4Y2_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR4Y3Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR4Y3_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR4Y4Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR4Y4_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR4Y5Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR4Y5_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR4Y6Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR4Y6_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR4Y7Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR4Y7_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR4Z0Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR4Z0_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR4Z1Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR4Z1_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR4Z2Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR4Z2_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR4Z3Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR4Z3_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR4Z4Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR4Z4_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR4Z5Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR4Z5_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR4Z6Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR4Z6_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR4Z7Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR4Z7_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR5Y0Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR5Y0_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR5Y1Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR5Y1_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR5Y2Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR5Y2_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR5Y3Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR5Y3_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR5Y4Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR5Y4_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR5Y5Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR5Y5_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR5Y6Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR5Y6_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR5Y7Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR5Y7_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR5Z0Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR5Z0_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR5Z1Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR5Z1_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR5Z2Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR5Z2_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR5Z3Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR5Z3_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR5Z4Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR5Z4_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR5Z5Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR5Z5_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR5Z6Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR5Z6_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    },
+    {
+      "module": "OmegaBound.ReleaseCompactRowsR5Z7Check",
+      "declaration": "OmegaBound.ADVXXZGeneral.rowsCompactR5Z7_check._proof_1_1",
+      "reason": "native root in the proof closure: compact row-bridge checks `rowsCompact<C>_check`"
+    }
+  ]
+}

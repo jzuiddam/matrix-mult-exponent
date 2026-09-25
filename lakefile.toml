@@ -1,0 +1,28 @@
+name = "OmegaBound"
+version = "0.1.0"
+keywords = ["math", "complexity", "matrix-multiplication"]
+# The library `OmegaBound` has the single root `OmegaBound.lean`, which imports exactly
+# `OmegaBound.FinalBound`: the default target is the theorem's import cone.
+defaultTargets = ["OmegaBound"]
+
+[leanOptions]
+pp.unicode.fun = true
+relaxedAutoImplicit = false
+weak.linter.mathlibStandardSet = true
+maxSynthPendingDepth = 3
+# This release uses `native_decide` deliberately; every use is listed in release/native-manifest.md.
+# Mathlib's style linter for it (part of the standard set above) is switched off to keep the build
+# log readable.
+weak.linter.style.nativeDecide = false
+
+[[require]]
+name = "mathlib"
+scope = "leanprover-community"
+rev = "v4.27.0"
+
+[[lean_lib]]
+name = "OmegaBound"
+
+# The frozen statement files under PLATFORM/Statements/ (see PLATFORM/README.md).
+[[lean_lib]]
+name = "PLATFORM"
